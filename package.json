@@ -1,6 +1,6 @@
 {
   "name": "@rexlabs/http-proxy",
-  "version": "1.16.3",
+  "version": "1.16.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/nodejitsu/node-http-proxy.git"
